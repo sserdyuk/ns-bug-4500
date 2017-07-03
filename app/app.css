@@ -1,0 +1,8 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+Switch {
+    background-color: red;    
+}
+Switch[checked="true"] {
+    background-color: green;    
+}
